@@ -56,15 +56,17 @@ jupyter lab
 - Gramacy, R. B. (2020). *Surrogates: Gaussian Process Modeling, Design, and Optimization for the Applied Sciences*. Chapman & Hall/CRC. https://bobby.gramacy.com/surrogates/
 - Mazzolini, M. et al. (2025). Spatio-temporal snow data assimilation with the ICESat-2 laser altimeter. *The Cryosphere*,  https://doi.org/10.5194/tc-19-3831-2025
 - Willmes, C. et al. (2025). Assimilating high-resolution satellite snow cover data in a permafrost model. *The Cryosphere (accepted)*, https://doi.org/10.5194/egusphere-2025-3142
+- Pedregosa, F. et al. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research*, 12, 2825–2830. https://jmlr.org/papers/v12/pedregosa11a.html
 
 ## Licence and credits
 
 - **Code** (the notebook): MIT licence, see [LICENSE](LICENSE).
-- **Data** (`S2_FCLSUM_MLB.nc`): CC BY 4.0.
+- **Data** (`S2_FCLSUM_MLB.nc`): CC BY 4.0. Contains modified Copernicus Sentinel data 2018.
 - **Image** (`images/emulators.jpg`): CC BY-SA 4.0, combined and labelled by Kristoffer Aalstad from Wikimedia Commons photos:
   - Ostrich: [Diego Delso](https://commons.wikimedia.org/wiki/File:Avestruz_de_cuello_azul_(Struthio_camelus_australis),_cabo_de_Buena_Esparanza,_Sud%C3%A1frica,_2018-07-23,_DD_87.jpg), CC BY-SA 4.0
   - Emu: [JJ Harrison](https://commons.wikimedia.org/wiki/File:Emu_1_-_Tidbinbilla.jpg), CC BY-SA 4.0
+- **Use of GenAI** The large language model [Claude Opus 5.5 from Anthropic](https://claude.ai/new) helped review the code and setup this repository. All LLM contributions have been verified by the original author of the code.
 
 ## Contact
 
-Kristoffer Aalstad, Department of Geosciences, University of Oslo (kristoffer.aalstad@geo.uio.no)
+Kristoffer Aalstad, Department of Geosciences, University of Oslo (kristoffer.aalstad@geo.uio.no). Feel free to get in touch if you spot any errors, need clarification, or want to build on these examples.
