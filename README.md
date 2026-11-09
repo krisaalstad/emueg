@@ -7,7 +7,7 @@ A short, hands-on demonstration of **model emulation** (surrogate modelling) wit
 
 ![Model meets emulator](https://raw.githubusercontent.com/krisaalstad/emueg/main/images/emulators.jpg)
 
-*Ostrich: [Author], [licence]. Emu: JJ Harrison, CC BY-SA 4.0. Both via Wikimedia Commons; combined and labelled by K. Aalstad, CC BY-SA 4.0.*
+*Ostrich: Diego Delso, CC BY-SA 4.0. Emu: JJ Harrison, CC BY-SA 4.0. Both via Wikimedia Commons; combined and labelled by K. Aalstad, CC BY-SA 4.0.*
 
 Originally developed as a demonstration for the course GEO4300/GEO9300 at the Department of Geosciences, University of Oslo. A modified version of this technique is used actively by us in research to generate large scale spectrally unmixied fSCA retrieval maps from Sentinel-2 and Landsat imagery.
 
